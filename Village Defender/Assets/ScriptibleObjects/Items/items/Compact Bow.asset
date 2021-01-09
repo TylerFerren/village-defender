@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66f925da72edb45dcb421953d8a5202d, type: 3}
+  m_Name: Compact Bow
+  m_EditorClassIdentifier: 
+  itemType: 1
+  Discription: A fast bow
+  UISettings: {fileID: 6078394704936024522, guid: a6280bac9632740969ada31e12591420,
+    type: 3}
+  backgroundColor: {r: 0.30064693, g: 0.764151, b: 0.21266466, a: 1}
+  icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  iconColor: {r: 0.4433962, g: 0.2917221, b: 0.21960661, a: 1}
+  weaponType: 1
+  damageAmount: 5
